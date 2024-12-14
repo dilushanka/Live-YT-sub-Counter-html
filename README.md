@@ -1,5 +1,5 @@
 # Youtube Live Subscribe Counter
-Demo Here -- [www.helalk.com/about](https://www.helalk.com/p/about.html)
+Demo Here -- https://www.helalk.com/p/about.html
 
 ## Overview
 **Youtube Live Subscribe Counter** is a web application that allows users to display the real-time subscriber count of a Youtube channel in a web page. This application uses HTML, CSS, JavaScript, and Google Youtube API to fetch the subscriber count data and display it on the web page.
